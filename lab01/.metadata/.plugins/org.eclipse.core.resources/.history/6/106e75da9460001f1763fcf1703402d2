@@ -1,0 +1,9 @@
+package janelas;
+
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class Janela {
+	JFrame janela = new JFrame("Gerenciador bibliotecario");
+	final JLabel visor = new JLabel("TESTE");
+}

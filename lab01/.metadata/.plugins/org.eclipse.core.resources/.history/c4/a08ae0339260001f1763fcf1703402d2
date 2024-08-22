@@ -1,0 +1,5 @@
+package gerenciador;
+import javax.swing.*;
+public class Gerenciador {
+	
+}

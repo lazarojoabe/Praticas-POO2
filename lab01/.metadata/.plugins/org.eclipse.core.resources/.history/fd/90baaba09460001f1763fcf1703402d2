@@ -1,0 +1,8 @@
+package janelas;
+
+import javax.swing.JFrame;
+
+public class Janela {
+	JFrame janela = new JFrame("Gerenciador bibliotecario");
+	janela.set
+}

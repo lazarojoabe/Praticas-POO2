@@ -1,0 +1,9 @@
+package entidades;
+
+public class Livro extends Itens{
+
+	public Livro(String titulo, String ano) {
+		super(titulo, ano);
+	}
+
+}

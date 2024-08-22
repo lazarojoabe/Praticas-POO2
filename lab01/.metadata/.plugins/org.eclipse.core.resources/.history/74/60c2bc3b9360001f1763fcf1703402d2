@@ -1,0 +1,12 @@
+package entidades;
+
+public class Revista extends Itens{
+	private String organizador;
+	private String num;
+	public Revista(String titulo, String ano) {
+		super(titulo, ano);
+	}
+	
+	
+	
+}
