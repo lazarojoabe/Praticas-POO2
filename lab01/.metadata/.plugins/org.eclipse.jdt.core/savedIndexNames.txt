@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\lazar\OneDrive - Universidade Federal de Uberlândia\UFU\5o semestre\Programacao Orientada a Objetos 2\lab01\.metadata\.plugins\org.eclipse.jdt.core
-3917620636.index
-1865797976.index
-710177809.index
